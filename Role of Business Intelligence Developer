@@ -1,0 +1,24 @@
+Here are 5 key roles of a Business Intelligence (BI) Developer:
+
+Data Integration and Transformation:
+
+BI developers are responsible for extracting data from various sources (databases, applications, flat files, etc.).
+They clean, transform, and prepare the data for analysis. This might involve tasks like handling missing values, correcting inconsistencies, and creating calculated fields.
+They ensure the data is accurate, consistent, and usable for building reports and dashboards.
+Data Modeling and Warehousing:
+
+BI developers design and develop data models that define how data is structured and organized for analysis. This often involves creating dimensional models for data warehouses that optimize data retrieval and querying.
+They understand the relationships between different data sets and build models that facilitate efficient exploration and analysis.
+Developing BI Tools and Applications:
+
+BI developers create reports, dashboards, and visualizations using BI tools like Power BI, Tableau, or Oracle Analytics Cloud. They translate business requirements into visual representations of data insights.
+They may also develop custom applications or tools to automate tasks, improve data access, or cater to specific reporting needs.
+Supporting Users and Collaboration:
+
+BI developers collaborate with business analysts, data scientists, and end-users to understand their reporting and analysis needs.
+They train users on how to access and utilize the reports and dashboards they create.
+They provide ongoing support for troubleshooting issues and ensuring users can effectively leverage BI tools.
+Staying Up-to-Date with Technology:
+
+The BI field is constantly evolving with new tools, technologies, and data sources emerging.
+BI developers need to stay current with these advancements to ensure they are using the most effective tools and techniques to deliver valuable insights from data.
