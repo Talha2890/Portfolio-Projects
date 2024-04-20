@@ -1,0 +1,42 @@
+Here's a breakdown of 10 major differences between Power BI and Oracle Analytics Cloud (OAC):
+
+1. Pricing Model:
+
+Power BI: Offered in both freemium and paid tiers. The free version has limitations on features, data refresh, and collaboration. Paid subscriptions are per user or per capacity.
+OAC: Offered within the Oracle Cloud environment. Pricing is typically based on a combination of factors like user count, storage, and compute resources used.
+2. Data Source Connectivity:
+
+Power BI: Connects to a wide range of on-premises and cloud data sources, including Excel, relational databases, cloud storage platforms, and web services.
+OAC: Primarily designed for integration with Oracle Cloud services and databases. While it can connect to some external data sources, the selection might be more limited compared to Power BI.
+3. Data Modeling and Transformation:
+
+Power BI: Offers a user-friendly interface for data modeling and transformation with drag-and-drop functionality.
+OAC: Provides a more technical approach to data modeling, often requiring familiarity with SQL and data modeling concepts.
+4. Visualization Capabilities:
+
+Power BI: Offers a large library of pre-built visualizations and allows for customization of charts and graphs.
+OAC: While OAC has visualization capabilities, the selection of charts and graphs might be smaller compared to Power BI. Customization options might also be more limited.
+5. Collaboration and Sharing:
+
+Power BI: Integrates seamlessly with Microsoft Teams and other Microsoft products, facilitating easy sharing and collaboration on reports and dashboards.
+OAC: Collaboration features are available within the Oracle Cloud environment, but might not be as intuitive or integrated as Power BI's offering.
+6. Security and Governance:
+
+Power BI: Offers features like role-based access control and data encryption to manage access and security.
+OAC: Leverages the security framework of the Oracle Cloud platform, which can be robust, but might require more technical expertise to configure.
+7. On-Premises vs. Cloud-Based:
+
+Power BI: Available in both on-premises and cloud-based (Power BI Service) deployments.
+OAC: Purely cloud-based service within the Oracle Cloud environment.
+8. Machine Learning Integration:
+
+Power BI: Offers limited built-in machine learning capabilities but can integrate with Azure Machine Learning for more advanced scenarios.
+OAC: Integrates with Oracle Machine Learning for data exploration and predictive analytics.
+9. Programming Languages:
+
+Power BI: Primarily uses a visual interface with limited scripting options.
+OAC: Supports SQL and potentially other languages like Python for data manipulation and automation.
+10. Target Audience:
+
+Power BI: Caters to a broad audience, including business users, analysts, and data scientists, with its user-friendly interface.
+OAC: More suited for organizations already invested in the Oracle Cloud ecosystem and users comfortable with a technical approach to data analysis
